@@ -9,6 +9,6 @@ This is a working rebuild of the Ghost WYSIWYG editor, which includes custom scr
 
 > ## It's simple, and ready to use. Just download the template and get started.
 
-### The best thing about this fork, is that `all the known bugs are gone`, you can `just download and continue` with your projects with any hassle or having to design, script functionalities.
+ The best thing about this fork, is that `all the known bugs are gone`, you can `just download and continue` with your projects with any hassle or having to design, script functionalities.
 
-#### This project has been rebuilt by **Wisdom Oparaocha** at **coinfeeder.com**, and **@BitNyeFe**
+ This project has been rebuilt by **Wisdom Oparaocha** at **coinfeeder.com**, and **@BitNyeFe**
